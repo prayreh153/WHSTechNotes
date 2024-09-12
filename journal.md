@@ -19,4 +19,4 @@ The instructions on setting up the journals were pretty clear. I personally didn
 
 # September 12, 2024
 Journal Prompt:
-The instructions on setting up the journals were pretty clear. I personally didn't encounter any challenges.
+The instructions were clear and I personally didn't encounter any challenges.
