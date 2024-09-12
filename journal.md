@@ -9,7 +9,14 @@ is fun. Overall, this game is one of my favorite games to play on my console.
 
 # September 10, 2024
 Journal Prompt:
-What could I have done differently in drafting or explaining the instructions? Were there any parts that were unclear or confusing?
 It was a little confusing at first looking at the instructions listed but I started to understand what we're supposed to do.
 Did you encounter any challenges while following the steps? If so, what were they? What do you think may have been missed or misunderstood?
 I think I did the steps right.
+
+# September 11, 2024
+Journal Prompt:
+The instructions on setting up the journals were pretty clear. I personally didn't encounter any challenges.
+
+# September 12, 2024
+Journal Prompt:
+The instructions on setting up the journals were pretty clear. I personally didn't encounter any challenges.
