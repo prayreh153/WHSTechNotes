@@ -26,3 +26,5 @@ Journal Prompt:
 The instructions were clear and I personally didn't encounter any challenges.
 
 # September 17, 2024
+Journal Prompt:
+This is a free week
