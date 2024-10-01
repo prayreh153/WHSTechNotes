@@ -31,4 +31,12 @@ This is a free week
 
 # September 30, 2024
 Journal Prompt:
-In everyday life, computer science is everywhere and can impact someone's life in many ways. One way computer science is used in everyday life is security cameras. These devices help keep homes and the people in it safe. For a Security camera to work, it needs a software and codes to know what it's supposed to do. Computer science can be used in many ways to help life be more efficent and safe. 
+In everyday life, computer science is everywhere and can impact someone's life in many ways. One way computer science is used in everyday life is security cameras. These devices help keep homes and the people in it safe. For a Security camera 
+to work, it needs a software and codes to know what it's supposed to do. Computer science can be used in many ways to help life be more efficent and safe. 
+
+# October 1, 2024
+Journal Prompt:
+In everyday life, computer science is everywhere and can impact someone's life in many ways. One way computer science is used in everyday life is security cameras. These devices help keep homes and the people in it safe. For a Security camera 
+to work, it needs a software and codes to know what it's supposed to do. Computer science can be used in many ways to help life be more efficent and safe.
+
+
