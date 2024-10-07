@@ -49,3 +49,7 @@ Journal Prompt:
 In everyday life, computer science is everywhere and can impact someone's life in many ways. One way computer science is used in everyday life is security cameras. These devices help keep homes and the people in it safe. For a Security camera 
 to work, it needs a software and codes to know what it's supposed to do. Computer science can be used in many ways to help life be more efficent and safe.
 
+# October 7, 2024
+Journal Prompt:
+A career path in the field of computer science that interests me is a Web Developer. Web Developers design and construct websites. They ensure that sites run smoothly and offer easy access points with no loading issues between pages or 
+error messages. Web developers need proficiency in coding languages such as HTML, CSS, and JavaScript for front-end development, along with knowledge of server-side languages like Node. js, Ruby, PHP, or Python. To be a Web Developer you will need a computer science degree program with core courses in systems design, data management, and the essential programming languages used by industry professionals. From being an Web Developer, you can gain in more jobs. You can work in a variety of industries, including software development, government, finance, healthcare, publishing, marketing, and more. They can work in an office environment or remotely. This job aligns with my interests and goals in computer science because I personally like websites that smoothly runs and are easy to navigate through, and being able to design them is a cool job to have.
