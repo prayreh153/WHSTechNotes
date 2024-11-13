@@ -71,3 +71,19 @@ Coding teaches you to break down problems into smaller steps. When you're coding
 Journal Prompt:
 AI improves efficiency and innovation in industries like healthcare, education, and transportation by automating repetitive tasks, analyzing large datasets to identify patterns and trends, enabling personalized approaches. They also make predictive forecasts, ultimately leading to better decision-making and optimized operations across various aspects of each sector. For example, in healthcare, AI can analyze medical images for faster diagnosis. In education, it can personalize learning paths for students, and in transportation. AI can optimize routes for increased efficiency and reduced costs. 
 There are risks with AI poses such as job automation leading to unemployment, bias in algorithms resulting in discriminatory outcomes, cybersecurity threats from AI-powered attacks. As AI becomes more sophisticated, it can automate tasks currently performed by humans, potentially leading to widespread job displacement across various industries, especially for repetitive, routine jobs. Malicious actors can utilize AI to develop more sophisticated cyberattacks, including AI-powered malware that can adapt and evade traditional security measures. AI systems often handle large amounts of sensitive data, making them potential targets for data breaches if security measures are inadequate. AI can be used to spread misinformation and manipulate public opinion through targeted algorithms and social media campaigns. 
+
+# October 28, 2024
+Journal Prompt:
+I think computer science helped the election of 2024 by organizing the votes in a system. The system can also count how many votes are in each category and could tell who wins by the number of votes.
+
+# November 4, 2024
+Journal Prompt:
+1. Anybody can easily use your personal information against you.
+2. Be sure to read over your publishes and make sure there's no sensetive information that doesn't have to be shared.
+3. I have shared a text to someone that was a little too personal, but the comment was deleted and is not brought up.
+4. You can make a boundry between sharing things that are too personal to share and ones that aren't as personal. 
+
+# November 12, 2024
+Journal Prompt:
+There's an event where I go to that showcases cars and its style. This could relate to computer science because to plan the event, people will need to publish the news online so people can see and show up for the event. Also the cpu inside of cars can control the car's idle speed, or the feul injectors. They also control the car's brakes, transmission, and airbags. Some people will have it tuned to get better performance in their cars for things such as getting more horsepower to go faster. 
+Advancements in computing technology have significantly improved medical and healthcare facilities. The reliance on computer-related technologies is increasing in various lucrative industries. Science and technology for a sustainable future help us understand our environment and our impact on it, which is essential for making smart decisions about how to use our resources. It can also help us find solutions to problems, such as climate change and pollution, and improve the quality of life for all people. Computer Science has enabled the development of sophisticated tools that can help tackle environmental problems. Issues like pollution, waste management and disposal, disease identification and containment, and others can be easily tackled using computers.
