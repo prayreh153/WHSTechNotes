@@ -91,3 +91,7 @@ Advancements in computing technology have significantly improved medical and hea
 # November 18, 2024
 Journal Prompt:
 Technology can help make food more affordable and accessible by using automated machines to grow, plant and harvest crops. This helped farmers to produce more food with less labor. With the help of technological advancements, there have also been developed machines that package and process food more efficiently. One of the disadvantages is that food processing can strip away many nutrients found in fresh foods. In addition, processed foods often contain added chemicals and preservatives, which can harm our health. Overall using technology with food can be good in terms of automating the process. In the other hand, food produced and harvested by humans is much better than by technology. 
+
+# December 2, 2024
+Journal Prompt:
+Artificial Intelligence is a set of technologies that enable computers to perform a variety of advanced functions. They have the ability to see, understand and translate spoken and written language, analyze data, make recommendations, and more. AI systems can learn, reason, and act in ways that would normally require human intelligence. They can also perform tasks that involve data sets that are too large for humans to analyze.
