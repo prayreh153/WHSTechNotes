@@ -95,3 +95,7 @@ Technology can help make food more affordable and accessible by using automated 
 # December 2, 2024
 Journal Prompt:
 Artificial Intelligence is a set of technologies that enable computers to perform a variety of advanced functions. They have the ability to see, understand and translate spoken and written language, analyze data, make recommendations, and more. AI systems can learn, reason, and act in ways that would normally require human intelligence. They can also perform tasks that involve data sets that are too large for humans to analyze.
+
+# December 9, 2024
+Journal Prompt:
+Brain rot for me is internet memes that can be funny or not funny. Digital Media had both good and bad effects on myself. One bad thing is that I stay up late on my phone rather than going to sleep.
