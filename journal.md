@@ -98,4 +98,4 @@ Artificial Intelligence is a set of technologies that enable computers to perfor
 
 # December 9, 2024
 Journal Prompt:
-Brain rot for me is internet memes that can be funny or not funny. Digital Media had both good and bad effects on myself. One bad thing is that I stay up late on my phone rather than going to sleep.
+Brain rot for me is internet memes that can be funny or not funny. Digital Media had both good and bad effects on myself. One bad thing is that I stay up late on my phone rather than going to sleep. One good thing is that it helped me on communicating with people. I feel like you can balance meaningful engagement and brainrot by limiting the amount of brainrot you see on the internet.
