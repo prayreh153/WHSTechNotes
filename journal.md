@@ -103,3 +103,7 @@ Brain rot for me is internet memes that can be funny or not funny. Digital Media
 # January 8, 2024
 Journal Prompt:
 Looking back on last semestar, I enjoyed this class for how chill it is. 
+
+# January 13, 2024
+Journal Prompt:
+My thoughts on the tech industry is shifting towards prioritizing artificial intelligence (AI) skills over traditional tech roles is that it can be both good and bad. AI can be considered good when it is used to improve human lives by automating repetitive tasks. It can be considered bad when it leads to job displacement, amplifies existing biases in data, or raises privacy concerns. The benefits of AI come from more and better data about systems. AI can uncover patterns, give us a new understanding of how things work, and then optimize systems.
