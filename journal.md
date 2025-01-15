@@ -100,10 +100,10 @@ Artificial Intelligence is a set of technologies that enable computers to perfor
 Journal Prompt:
 Brain rot for me is internet memes that can be funny or not funny. Digital Media had both good and bad effects on myself. One bad thing is that I stay up late on my phone rather than going to sleep. One good thing is that it helped me on communicating with people. I feel like you can balance meaningful engagement and brainrot by limiting the amount of brainrot you see on the internet.
 
-# January 8, 2024
+# January 8, 2025
 Journal Prompt:
 Looking back on last semestar, I enjoyed this class for how chill it is. 
 
-# January 13, 2024
+# January 13, 2025
 Journal Prompt:
 My thoughts on the tech industry is shifting towards prioritizing artificial intelligence (AI) skills over traditional tech roles is that it can be both good and bad. AI can be considered good when it is used to improve human lives by automating repetitive tasks. It can be considered bad when it leads to job displacement, amplifies existing biases in data, or raises privacy concerns. The benefits of AI come from more and better data about systems. AI can uncover patterns, give us a new understanding of how things work, and then optimize systems.
