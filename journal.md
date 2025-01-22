@@ -107,3 +107,8 @@ Looking back on last semestar, I enjoyed this class for how chill it is.
 # January 13, 2025
 Journal Prompt:
 My thoughts on the tech industry is shifting towards prioritizing artificial intelligence (AI) skills over traditional tech roles is that it can be both good and bad. AI can be considered good when it is used to improve human lives by automating repetitive tasks. It can be considered bad when it leads to job displacement, amplifies existing biases in data, or raises privacy concerns. The benefits of AI come from more and better data about systems. AI can uncover patterns, give us a new understanding of how things work, and then optimize systems.
+
+# January 22, 2025
+Journal Prompt:
+Government intervention can significantly impact technology companies by influencing their innovation, data privacy practices, market competition, and user experience. It can also sometimes stifle innovation if not carefully implemented, potentially leading to limitations on user access to certain features or services depending on the nature of the regulation. Technological advances in secure data storage, data sharing, data analytics, and data visualization have the potential to enhance government transparency and accountability. Increased data accessibility allows citizens to understand how resources are being used and whether programs are effective.
+In my opinion, companies like TikTok can maybe use our locations to spy on us. One policy I would use to make the company safe is to make sure the user sees the terms and policies for the app.  
