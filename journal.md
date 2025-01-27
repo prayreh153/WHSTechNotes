@@ -115,7 +115,7 @@ In my opinion, companies like TikTok can maybe use our locations to spy on us. O
 
 # January 27, 2025
 Journal Prompt:
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Name      | Car | Mistake      |
+| ----------- | ----------- | ----------- |
+| Header      | Title       | Header      |
+| Paragraph   | Text        | Paragraph   |
