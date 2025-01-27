@@ -112,3 +112,10 @@ My thoughts on the tech industry is shifting towards prioritizing artificial int
 Journal Prompt:
 Government intervention can significantly impact technology companies by influencing their innovation, data privacy practices, market competition, and user experience. It can also sometimes stifle innovation if not carefully implemented, potentially leading to limitations on user access to certain features or services depending on the nature of the regulation. Technological advances in secure data storage, data sharing, data analytics, and data visualization have the potential to enhance government transparency and accountability. Increased data accessibility allows citizens to understand how resources are being used and whether programs are effective.
 In my opinion, companies like TikTok can maybe use our locations to spy on us. One policy I would use to make the company safe is to make sure the user sees the terms and policies for the app.  
+
+# January 27, 2025
+Journal Prompt:
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
