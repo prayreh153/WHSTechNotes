@@ -117,7 +117,7 @@ In my opinion, companies like TikTok can maybe use our locations to spy on us. O
 Journal Prompt:
 | Name      | Car | Mistake      |
 | ----------- | ----------- | ----------- |
-| Jimmy      | Title       | Header      |
-| Kayla   | Text        | Paragraph   |
-| Bart      | Title       | Header      |
-| Harrison      | Title       | Header      |
+| Jimmy      | Honda Civic        | Drilled Hole In Gas Tank      |
+| Kayla   | GMC Sierra	       | Fixed Wrong Problem   |
+| Bart      | Toyota Corolla	       | Left Stains On Carpet      |
+| Harrison      | Subaru Forester	       | Left The Oil Cap Off      |
