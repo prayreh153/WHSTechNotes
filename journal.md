@@ -121,3 +121,22 @@ Journal Prompt:
 | Kayla   | GMC Sierra	       | Fixed Wrong Problem   |
 | Bart      | Toyota Corolla	       | Left Stains On Carpet      |
 | Harrison      | Subaru Forester	       | Left The Oil Cap Off      |
+
+# February 3, 2025
+Journal Prompt:
+Technology integration in aviation can significantly enhance safety by enabling real-time monitoring 
+of aircraft systems, providing pilots with advanced situational awareness, and automating critical 
+flight controls. They can also utilize data analytics to identify potential hazards and proactively 
+address maintenance issues, ultimately reducing human error and improving decision-making during 
+flight operations. There are several existing and arising technologies poised to significantly 
+improve aviation safety: Advanced navigation systems, like GPS, ensure pilots stay on course and 
+maintain precise altitude, significantly reducing the risk of collisions and promoting efficient 
+flight paths. Technology on new aircraft can either improve fuel burn through aerodynamic efficiency 
+or reduce actual combustion use. Combined, these elements create a new aircraft with a reduced 
+environmental impact.
+Automatic Flight Control Systems (AFCS) play a critical role in enhancing the safety of aircraft. 
+This technology uses computer programs and sensors to monitor the performance of the aircraft and 
+adjust controls as needed, reducing the potential for human error during flights. Automation and 
+robotics have significantly improved workplace safety by reducing the need for humans to perform 
+dangerous tasks. Robots can be used to handle hazardous materials, work in extreme temperatures, or 
+complete repetitive tasks that may cause strain or injury to human workers.
