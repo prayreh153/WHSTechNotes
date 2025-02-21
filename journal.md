@@ -147,3 +147,6 @@ If I was a software developer working for an NFL team I would make an pplication
 
 This technology can use gyroscopes, accelerometers, and other integrations that provide real-time, accurate data. Through these smart sports balls, athletes and coaches can get feedback that shows a player's performance, precision, and power. Players are fitted with wearable technology and AI-enhanced sports equipment, enabling teams to track player movements and gain valuable insights throughout the course of a game. These data insights allow coaches and technical staff to make strategy decisions based on trends. Sports data analytics helps coaches understand how players are doing, how the team is working together, and what game plans might work best. Performance Metrics: Athletes are continually monitored through wearable devices and sensors that track various performance metrics, including speed, endurance, and power.
 
+# February 18, 2025
+Journal Prompt:
+The most interesting I learned this week was how America was in the 1920's. I learned this from my history class and found it interesting to see all of the new technologies being made in that era. It was cool to see how people lived and how they looked. 
