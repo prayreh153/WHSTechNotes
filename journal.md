@@ -150,3 +150,8 @@ This technology can use gyroscopes, accelerometers, and other integrations that 
 # February 18, 2025
 Journal Prompt:
 The most interesting I learned this week was how America was in the 1920's. I learned this from my history class and found it interesting to see all of the new technologies being made in that era. It was cool to see how people lived and how they looked. 
+
+# February 24, 2025
+Journal Prompt:
+For language teachers, digital tools can revolutionise both student engagement and, on a more practical level, lesson planning and the use of classroom resources. Using cloud technology, language teachers can create and maintain an organised online repository of lesson materials. Visual learners can use smart boards or tablets to draw pictures and look at other visual aids, while reading/writing learners can use the same media to absorb information or write down ideas. Music streaming platforms or audiotapes can be helpful for auditory learners.
+Students can use interactive games to reinforce math, spelling, phonetic, and reading skills. Sites like Spelling Training permit students or teachers to upload their own word lists to practice word pronunciation and create interactive games. Technology is a powerful tool that can support and transform education in many ways, from making it easier for teachers to create instructional materials to enabling new ways for people to learn and work together.
