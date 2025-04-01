@@ -165,3 +165,11 @@ Technology helped me in many ways. As I mentioned, it can help me navigate to wh
 Journal Prompt:
 The technology going into predicting games such as the Marh Madness can be cool. But, it can take the fun and excitement out of predicting which team is going to win. The whole point of watching two teams going at it against eachother is to see the outcome of it, not knwoing who's going to win. Although the technology going behind predicting the games is astonishing, it overall takes the joy out of betting on which side is winning.
 Social media can be a good thing in veiwing games. Sport accounts can publish live news on highlights of a game. Using technology, you can also view a game right on your tv instead of listening to the radio like old times. Tools like AR filters, live Q&A sessions, and virtual meet-and-greets make fan engagement more interactive and immersive. Social media has transformed athletes into powerful influencers, capable of drawing new fans into their sports by building personal connections online.
+
+# March 31, 2025
+Journal Prompt:
+1. I'm feeling alright in everything right now.
+2. The most stressful part of school is exams.
+3. Things I can do is study for those exams so I can feel confident.
+4. One goal is to pass all my classes on time.
+5. I can talk to my friends or family.
