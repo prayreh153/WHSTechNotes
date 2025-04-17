@@ -321,3 +321,8 @@ generated asnwers for a question. For studying, AI can be really helpful. Aslong
 websites to get sources from they can be very convenient. They can provide quick and accurate sources 
 whenever you need it. 
 I personally would use AI to study for tests such as STAAR. I already use AI to look up some aswers on tests I have in my classes. I feel if I can use AI for my quizes I can also use it to study. For example, if I need help on essays AI can help with that. AI is able to highlight mistakes in writing so I can understand the mitakes in my writing. Also AI is alot faster than having a teacher stand in class and talk about a subject. Overall AI can be very benficial if you use it for the right things. 
+
+# April 14, 2025
+Journal Prompt:
+I believe such bans like restricitng phones duriing school hours are not a beneficial way to help students learn. Things like phones are something students hold dearly. Taking that away from students during school will only pressure them more rather than helping the focus. Teachers are allowed to have phones, but why not students. There are reasons such as students getting distracted by them but not to the point where it's completely banned from accessing it.
+These policies can make students feel more trapped in school rather than wanting to come and learn. If the school I attend starts to implement these policies, I would probably switch schools. There's no actual reason to ban something that can be put away easily. I would be fine if a school holds someone's phone for being on it too much, but banning them is not the way to go. 
