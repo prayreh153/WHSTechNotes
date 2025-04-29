@@ -326,3 +326,17 @@ I personally would use AI to study for tests such as STAAR. I already use AI to 
 Journal Prompt:
 I believe such bans like restricitng phones duriing school hours are not a beneficial way to help students learn. Things like phones are something students hold dearly. Taking that away from students during school will only pressure them more rather than helping the focus. Teachers are allowed to have phones, but why not students. There are reasons such as students getting distracted by them but not to the point where it's completely banned from accessing it.
 These policies can make students feel more trapped in school rather than wanting to come and learn. If the school I attend starts to implement these policies, I would probably switch schools. There's no actual reason to ban something that can be put away easily. I would be fine if a school holds someone's phone for being on it too much, but banning them is not the way to go. 
+
+# April 29, 2025
+Journal Prompt:
+| Name      | Flavor | Occasion     | Price     |
+| :---        |    :----:   |    :----:   |          ---: |
+| Sally      | Chocolate       | Graduation   | $35.00     |
+| Michael   | Vanilla        | Farewell Party      | $37.00    |
+| Emma   | Carrot        | Birthday     | $39.00     |
+
+
+
+Graduation	$35.00
+Michael	Vanilla	Farewell Party	$37.00
+Emma	Carrot	Birthday	$39.00
