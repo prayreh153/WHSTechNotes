@@ -335,8 +335,7 @@ Journal Prompt:
 | Michael   | Vanilla        | Farewell Party      | $37.00    |
 | Emma   | Carrot        | Birthday     | $39.00     |
 
-
-
-Graduation	$35.00
-Michael	Vanilla	Farewell Party	$37.00
-Emma	Carrot	Birthday	$39.00
+# May 5, 2025
+Journal Prompt:
+If 100 men went against 1 gorilla I would think the 100 men would win. This is because 100 men is equal to the amount of strength of tons. This strength combined could easily take down a single gorilla. It also depends because if 100 skinny men go up agaisnt a gorilla, I think some deaths are going to be present but overall they can still beat the gorilla. If we can get 100 very strong men that are brave and know how to fight, there's no doubt the men are winning.
+This trend shows how anything on the internet can become popular out of nowhere. It can be the most stupid thing, but aslong as people make the thing catchy, it can easily be a trend. For example, the water bottle flip trend became popular. Everybody started doing the challenge because they like to follow people and stay up to date with them. This relates to the 100 men vs 1 gorilla. Overall I would still think 100 men will beat 1 gorilla.  
