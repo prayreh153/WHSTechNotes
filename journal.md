@@ -339,3 +339,8 @@ Journal Prompt:
 Journal Prompt:
 If 100 men went against 1 gorilla I would think the 100 men would win. This is because 100 men is equal to the amount of strength of tons. This strength combined could easily take down a single gorilla. It also depends because if 100 skinny men go up agaisnt a gorilla, I think some deaths are going to be present but overall they can still beat the gorilla. If we can get 100 very strong men that are brave and know how to fight, there's no doubt the men are winning.
 This trend shows how anything on the internet can become popular out of nowhere. It can be the most stupid thing, but aslong as people make the thing catchy, it can easily be a trend. For example, the water bottle flip trend became popular. Everybody started doing the challenge because they like to follow people and stay up to date with them. This relates to the 100 men vs 1 gorilla. Overall I would still think 100 men will beat 1 gorilla.  
+
+# May 12, 2025
+Journal Prompt:
+The chromebook challenge which had been trending does involve damaging a computer. This can be expensive to repair or replace for students. In response to this trend you can make it to where if you damage your chromebook on purspose, the student will have to pay for it. Another way is to have students bring their own devices instead of getting a school computer. 
+When using school property, you'll have to be respectfull with handling the technology. At the end of the day, the device is not yours. It belongs to the school and district. Students should be mindfull of this and should overall respect the things they get to use. The real world consequences with the challenge can be a lot worse. The challenge can actually set the chromebool on fire and can be real dangerous.
