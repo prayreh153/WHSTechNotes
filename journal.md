@@ -344,3 +344,8 @@ This trend shows how anything on the internet can become popular out of nowhere.
 Journal Prompt:
 The chromebook challenge which had been trending does involve damaging a computer. This can be expensive to repair or replace for students. In response to this trend you can make it to where if you damage your chromebook on purspose, the student will have to pay for it. Another way is to have students bring their own devices instead of getting a school computer. 
 When using school property, you'll have to be respectfull with handling the technology. At the end of the day, the device is not yours. It belongs to the school and district. Students should be mindfull of this and should overall respect the things they get to use. The real world consequences with the challenge can be a lot worse. The challenge can actually set the chromebool on fire and can be real dangerous.
+
+# May 19, 2025
+Journal Prompt:
+Yes, I'm ready for summer.
+
