@@ -349,3 +349,6 @@ When using school property, you'll have to be respectfull with handling the tech
 Journal Prompt:
 Yes, I'm ready for summer.
 
+# August 27, 2025
+Journal Prompt:
+Today, I created my first GitHub account and repository. I'm excited to start using GitHub for my projects!
