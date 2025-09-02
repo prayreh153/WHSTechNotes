@@ -352,3 +352,9 @@ Yes, I'm ready for summer.
 # August 27, 2025
 Journal Prompt:
 Today, I created my first GitHub account and repository. I'm excited to start using GitHub for my projects!
+
+# September 2, 2025
+Journal Prompt:
+The new cell phone law is a bad law in my opinion. I get trying to make students more focused on work and education, but not allowing phones at all makes students even less focused. As a student myself, having my phone on me, I feel safe. I can contact my family or anyone incase of an emergency. Having not being able to even pull it out for a second overall makes school a less comfortable environment for me. I will sometimes worry if my parents are texting me, telling me if they need something, but with this new phone law I can't do that. In conclusion I personally don't like the new law at all and should find a new way to resolve this problem.   
+
+
