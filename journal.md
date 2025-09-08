@@ -357,4 +357,9 @@ Today, I created my first GitHub account and repository. I'm excited to start us
 Journal Prompt:
 The new cell phone law is a bad law in my opinion. I get trying to make students more focused on work and education, but not allowing phones at all makes students even less focused. As a student myself, having my phone on me, I feel safe. I can contact my family or anyone incase of an emergency. Having not being able to even pull it out for a second overall makes school a less comfortable environment for me. I will sometimes worry if my parents are texting me, telling me if they need something, but with this new phone law I can't do that. In conclusion I personally don't like the new law at all and should find a new way to resolve this problem.   
 
+# September 8, 2025
+Journal Prompt:
+A career I am interested in pursuing in the future is in the field of engineering. One thing about the engineering profession is that they're always problem solving. Whether it's from developing blueprints or using math and science to solve 
+solutions for real life problems, people in engineering are always thinking of new ways to provide a conclusion. Computer science can be an essential value in the field of engineering. For example, the machines that are used in engineering need computer programming to allow it to know what to do, making the machine automatic without human's help. In conclusion, computer science is everywhere and you may not even notice it being used.     
+
 
