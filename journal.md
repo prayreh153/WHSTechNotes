@@ -362,4 +362,11 @@ Journal Prompt:
 A career I am interested in pursuing in the future is in the field of engineering. One thing about the engineering profession is that they're always problem solving. Whether it's from developing blueprints or using math and science to solve 
 solutions for real life problems, people in engineering are always thinking of new ways to provide a conclusion. Computer science can be an essential value in the field of engineering. For example, the machines that are used in engineering need computer programming to allow it to know what to do, making the machine automatic without human's help. In conclusion, computer science is everywhere and you may not even notice it being used.     
 
+# September 15, 2025
+Journal Prompt:
+Ai can be used to help communication between teachers and students to solve problems. Ai allows many things to be automated and provide helpful tips when needed. In being collaborative, ai can help generate ideas, being a useful tool in 
+brainstorming ideas. Ai can also organize group efforts, tracking individual contributions and such. With providing assistance, Ai can be accessible 24/7. Overall, AI can be a really helpful tool in communicating, and teamwork.  
+
+
+
 
