@@ -367,6 +367,12 @@ Journal Prompt:
 Ai can be used to help communication between teachers and students to solve problems. Ai allows many things to be automated and provide helpful tips when needed. In being collaborative, ai can help generate ideas, being a useful tool in 
 brainstorming ideas. Ai can also organize group efforts, tracking individual contributions and such. With providing assistance, Ai can be accessible 24/7. Overall, AI can be a really helpful tool in communicating, and teamwork.  
 
+# September 22, 2025
+Journal Prompt:
+AI-
+Working in a virtual store for real money is a complex idea with both potential upsides and downsides for the future of jobs. The development of the "metaverse," a collective virtual shared space that includes virtual reality (VR) and augmented reality (AR) technologies, is driving this new type of employment. Whether it is a good or bad idea will likely depend on how its challenges are addressed. 
 
-
+My Version-
+Working in a virtual store for real money has its good side and bad side. The development of the metaverse, a virtual reality that uses AI, is motivationg this new type of employment. Whether it's a good or bad idea, it'll depend on how its challenges are addressed.
+This response used AI.
 
