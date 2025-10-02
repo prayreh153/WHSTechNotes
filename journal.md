@@ -376,3 +376,7 @@ My Version-
 Working in a virtual store for real money has its good side and bad side. The development of the metaverse, a virtual reality that uses AI, is motivationg this new type of employment. Whether it's a good or bad idea, it'll depend on how its challenges are addressed.
 This response used AI.
 
+# September 30, 2025
+Journal Prompt:
+The term 67 is a joke that almost every gen z or younger knows. This term originated from the height of Lebron James being 6 foot 7 inches. It then was used in a rap song saying the phrase six seven. Eventually people turned it into a meme. The meme is massive because it can be seen or heard in the everyday life. There is also a motion with your hands you'll have to do everytime you say the phrase. You'll have to move both your hands up and down in opposite directions from eachother. 
+
