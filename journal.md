@@ -383,3 +383,8 @@ The term 67 is a joke that almost every gen z or younger knows. This term origin
 # October 6, 2025
 Journal Prompt:
 If I were in charge of my school, I would make the rules of technology and AI not strict. As a student, using AI and technologies is really helpful when you use it in the right way. I'll allow game websites to a certain level, so students won't get carried away. I would allow things like chatgpt only if students use it as a reference and not completly copy off of it. I would also allow phones to be out, but if they use it too much and not pay attention in class, I will have it took up. I feel students should have more freedom when using technology in school, and should benefit them if they did.  
+
+# October 14, 2025
+Journal Prompt:
+https://www.canva.com/design/DAG1ySonMV8/KasoUG6bhEcAUBcypGS7fw/edit
+This slideshow was propmted to show the water cycle and how it works. Canva interpreted it by creating a animated and engaging slidshow. The best interactive parts would be the quiz and answers. by having a little pop quiz in the slideshow, it makes it more engaging to the viewer. To improve the prompt, I can probably add a theme to make the slides more colored.  
