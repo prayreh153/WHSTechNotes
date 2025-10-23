@@ -388,3 +388,11 @@ If I were in charge of my school, I would make the rules of technology and AI no
 Journal Prompt:
 https://www.canva.com/design/DAG1ySonMV8/KasoUG6bhEcAUBcypGS7fw/edit
 This slideshow was propmted to show the water cycle and how it works. Canva interpreted it by creating a animated and engaging slidshow. The best interactive parts would be the quiz and answers. by having a little pop quiz in the slideshow, it makes it more engaging to the viewer. To improve the prompt, I can probably add a theme to make the slides more colored.  
+
+# October 20, 2025
+Journal Prompt:
+| Name | Class | Seat |
+| --- | ----------- | --- |
+| Franklin | Second | 91A |
+| Hardeep | third | 61F |
+| Marla | first | 35B |
