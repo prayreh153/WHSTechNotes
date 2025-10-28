@@ -396,3 +396,9 @@ Journal Prompt:
 | Franklin | Second | 91A |
 | Hardeep | third | 61F |
 | Marla | first | 35B |
+
+# October 27, 2025
+Journal Prompt:
+Technology is helpful in many ways. In this case, it can be very useful in preparing for natural disasters like hurricanes, floods, or wildfires. Some examples of technology used in natural disasters are remote sensing, radars, and satellite images. A very important aspect of technology in this situation is being able to warn the people who are in danger. Being able to access the internet is very essential in preparing for a natural disaster and surviving through it.  
+
+
