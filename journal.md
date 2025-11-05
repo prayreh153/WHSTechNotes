@@ -401,4 +401,6 @@ Journal Prompt:
 Journal Prompt:
 Technology is helpful in many ways. In this case, it can be very useful in preparing for natural disasters like hurricanes, floods, or wildfires. Some examples of technology used in natural disasters are remote sensing, radars, and satellite images. A very important aspect of technology in this situation is being able to warn the people who are in danger. Being able to access the internet is very essential in preparing for a natural disaster and surviving through it.  
 
-
+# November 3, 2025
+Journal Prompt:
+With SNAP running out of funding, many families suffer from this cause. Without the help of SNAP, worldwide hunger is more apperent. According to research, over 42 million Americans rely on this program. Technology can be really helpful for people who are in need of help on food. With the accessibility of the internet, individuals can look up websites that can assist them with their problems. Some challenges with technology is that it's not always available to everyone. If I had a tool to help solve food insecurity, I would make a website that has links to the best resources that can help people with food problems.   
