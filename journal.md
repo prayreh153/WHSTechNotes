@@ -404,3 +404,9 @@ Technology is helpful in many ways. In this case, it can be very useful in prepa
 # November 3, 2025
 Journal Prompt:
 With SNAP running out of funding, many families suffer from this cause. Without the help of SNAP, worldwide hunger is more apperent. According to research, over 42 million Americans rely on this program. Technology can be really helpful for people who are in need of help on food. With the accessibility of the internet, individuals can look up websites that can assist them with their problems. Some challenges with technology is that it's not always available to everyone. If I had a tool to help solve food insecurity, I would make a website that has links to the best resources that can help people with food problems.   
+
+# November 10, 2025
+Journal Prompt:
+Holidays are a time to spend quality time with your friends and family. Technology can be a factor to the way poeple spend holidays. With tchnology such as mobile devices, people can use it to celebrate holidays with people who are miles away from them. I personally think technology makes holidays better. Technology allows people to connect in ways we couldn't do without technology. I think developers should respect privacy and family time because everybody would want a little privacy to their times with close family.  
+
+
