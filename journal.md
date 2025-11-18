@@ -409,4 +409,6 @@ With SNAP running out of funding, many families suffer from this cause. Without 
 Journal Prompt:
 Holidays are a time to spend quality time with your friends and family. Technology can be a factor to the way poeple spend holidays. With tchnology such as mobile devices, people can use it to celebrate holidays with people who are miles away from them. I personally think technology makes holidays better. Technology allows people to connect in ways we couldn't do without technology. I think developers should respect privacy and family time because everybody would want a little privacy to their times with close family.  
 
-
+# November 17, 2025
+Journal Prompt:
+Yes, I am looking foward to my thanksgiving break. 
