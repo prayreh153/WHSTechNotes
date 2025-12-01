@@ -412,3 +412,8 @@ Holidays are a time to spend quality time with your friends and family. Technolo
 # November 17, 2025
 Journal Prompt:
 Yes, I am looking foward to my thanksgiving break. 
+
+# December 1, 2025
+Journal Prompt:
+An example of a real job that uses drones is a aerial photography. In this field, people use drones to capture images from an aerial view. Coding and software is essential for drones, as they are the brains in controlling what the drones do. The average pay for this job is a annual salary of approximately $86,823. An specialized degree is required for this job. With the research done, I would consider this job in the future.   
+
