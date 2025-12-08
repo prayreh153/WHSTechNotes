@@ -417,3 +417,6 @@ Yes, I am looking foward to my thanksgiving break.
 Journal Prompt:
 An example of a real job that uses drones is a aerial photography. In this field, people use drones to capture images from an aerial view. Coding and software is essential for drones, as they are the brains in controlling what the drones do. The average pay for this job is a annual salary of approximately $86,823. An specialized degree is required for this job. With the research done, I would consider this job in the future.   
 
+# December 8, 2025
+Journal Prompt:
+Having a self driving car is something that should be built and programmed correctly. This ensures safety for passengers and actual vehicles on the road. With the failure to detect bus stops, it can be a hazard on the road. With whatever issue it is, it should be considered and taken into action to fix the issue. I personally been to Austin myself and drove beside one of these self driving cars, and was perfectly fine for me. But, if there are issues with stuff such as failing to stop for bus stops, I wouldn't trust the programming with the car. Overall, it should be very important to get the programming right when having a self driving car.  
