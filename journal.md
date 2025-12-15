@@ -420,3 +420,8 @@ An example of a real job that uses drones is a aerial photography. In this field
 # December 8, 2025
 Journal Prompt:
 Having a self driving car is something that should be built and programmed correctly. This ensures safety for passengers and actual vehicles on the road. With the failure to detect bus stops, it can be a hazard on the road. With whatever issue it is, it should be considered and taken into action to fix the issue. I personally been to Austin myself and drove beside one of these self driving cars, and was perfectly fine for me. But, if there are issues with stuff such as failing to stop for bus stops, I wouldn't trust the programming with the car. Overall, it should be very important to get the programming right when having a self driving car.  
+
+
+# December 15, 2025
+Journal Prompt:
+My plans for winter break is to relax and rest.
