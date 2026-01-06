@@ -425,3 +425,7 @@ Having a self driving car is something that should be built and programmed corre
 # December 15, 2025
 Journal Prompt:
 My plans for winter break is to relax and rest.
+
+# January 6, 2026
+Journal Prompt:
+Over the break I used many different types of technology. I use it for entertainment, navigation, gaming, driving, etc. For entertainment, it can be using my phone or TV to watch youtube, or the movie theatres when I wwent to go watch Avatar over the break. I also use technology for driving, like the ecu to make the car drive smooth, or the apple car play for navigation. For gaming, I use my laptop and ps4 to play different games. Overall, technology is in my everyday life and i don't know what I would do without technology.    
