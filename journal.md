@@ -429,3 +429,7 @@ My plans for winter break is to relax and rest.
 # January 6, 2026
 Journal Prompt:
 Over the break I used many different types of technology. I use it for entertainment, navigation, gaming, driving, etc. For entertainment, it can be using my phone or TV to watch youtube, or the movie theatres when I wwent to go watch Avatar over the break. I also use technology for driving, like the ecu to make the car drive smooth, or the apple car play for navigation. For gaming, I use my laptop and ps4 to play different games. Overall, technology is in my everyday life and i don't know what I would do without technology.    
+
+# January 12, 2026
+Journal Prompt:
+When exploring the internet whether by social media, gaming, etc, there's also many other poeple on the internet alswell. platforms offer a space for everyone to come together and enjoy with eachother. However some people may abuse this power and say or do hurtful things on the internet. That is why safe spaces are needed on the internet. People from all ages can access the internet, and some content might be too much for them to see. This is a reason why develepors need to design a safe space for certian individuals and evironment overall. Without this protection, there can be things or people promoting very vile things online, which people don't want to see.  
