@@ -433,3 +433,7 @@ Over the break I used many different types of technology. I use it for entertain
 # January 12, 2026
 Journal Prompt:
 When exploring the internet whether by social media, gaming, etc, there's also many other poeple on the internet alswell. platforms offer a space for everyone to come together and enjoy with eachother. However some people may abuse this power and say or do hurtful things on the internet. That is why safe spaces are needed on the internet. People from all ages can access the internet, and some content might be too much for them to see. This is a reason why develepors need to design a safe space for certian individuals and evironment overall. Without this protection, there can be things or people promoting very vile things online, which people don't want to see.  
+
+# January 20, 2026
+Journal Prompt: 
+Technology can be a useful tool in helping people communicate and express people's thoughts. In creating a more fair and just society technology can be very helpful. For example, technology can help with education and economic oppertunities. There are many online platforms that can teach people, and help look for jobs. As for civic related things, the social media and internet platforms allow people's voices to be heard and shared accross the internet. The use of the internet can be very helpful in many ways and should be used for the right things.   
