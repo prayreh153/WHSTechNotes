@@ -437,3 +437,7 @@ When exploring the internet whether by social media, gaming, etc, there's also m
 # January 20, 2026
 Journal Prompt: 
 Technology can be a useful tool in helping people communicate and express people's thoughts. In creating a more fair and just society technology can be very helpful. For example, technology can help with education and economic oppertunities. There are many online platforms that can teach people, and help look for jobs. As for civic related things, the social media and internet platforms allow people's voices to be heard and shared accross the internet. The use of the internet can be very helpful in many ways and should be used for the right things.   
+
+# January 29, 2026
+Journal Prompt: 
+As a senior, I took my SAT already. I didn't reach the score I was looking to get. If I studied a little bit more, I think I would get a score I would be satisfied with. Although my SAT score won't get my into my dream university, I can still get in a college I'm okay with. After that, hopefully I can get a good pying job with the degree I am aiming for.     
