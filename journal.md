@@ -441,3 +441,8 @@ Technology can be a useful tool in helping people communicate and express people
 # January 29, 2026
 Journal Prompt: 
 As a senior, I took my SAT already. I didn't reach the score I was looking to get. If I studied a little bit more, I think I would get a score I would be satisfied with. Although my SAT score won't get my into my dream university, I can still get in a college I'm okay with. After that, hopefully I can get a good pying job with the degree I am aiming for.     
+
+# February 2, 2026
+Journal Prompt: 
+Behaving professionally in a work space is a way to show respect to not only the work space, but people around you. As you grow up and get into a job, they are expecting you to behave during work. If you were a manager looking over your workers and saw a person messing around during working hours, you would think they're not taking the work seriously, resulting in potentially getting fired. In sharing spaces with coworkers or classmates, you wouldn't want to be the person who everyone hates because of how you act and take care of your space. At the end of the day it's all about respect, and behaving creates a peaceful environment for everyone to enjoy collectively.    
+
