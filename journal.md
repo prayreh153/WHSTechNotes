@@ -449,4 +449,7 @@ Behaving professionally in a work space is a way to show respect to not only the
 # February 10, 2026
 Journal Prompt: 
 I don't really watch American Football much. I also didn't watch the Super Bowl.
- 
+
+ # February 23, 2026
+Journal Prompt: 
+A technology i'd say had the biggest impact is the broadcasting technology, revolutionizing how audiences watch the sports. This tech offers FPV drones for immersive angles, 4K HDR, and Chyron graphics for real-time data, reducing on-site footprints while increasing production value. This technology make the games more engaging and accessible to a global, digital audience. 
