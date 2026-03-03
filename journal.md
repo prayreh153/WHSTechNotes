@@ -450,6 +450,28 @@ Behaving professionally in a work space is a way to show respect to not only the
 Journal Prompt: 
 I don't really watch American Football much. I also didn't watch the Super Bowl.
 
- # February 23, 2026
+# February 23, 2026
 Journal Prompt: 
 A technology i'd say had the biggest impact is the broadcasting technology, revolutionizing how audiences watch the sports. This tech offers FPV drones for immersive angles, 4K HDR, and Chyron graphics for real-time data, reducing on-site footprints while increasing production value. This technology make the games more engaging and accessible to a global, digital audience. 
+
+ # March 2, 2026
+Journal Prompt: 
+Software Engineer (USAA):
+Job #1
+Company: USAA
+Job Title: Software Engineer (Mid-Level) - P&C IT
+Education Required: Bachelor's degree in Computer Science, Computer Engineering, or a related field.
+Experience Required: Minimum of 4 years of experience in software development, including experience with the full software development life cycle (SDLC) and Agile methodologies.
+Skills / Tools / Languages: Java, Spring Boot, Microservices architecture, RESTful APIs, AWS (Cloud native development), JUnit/Mockito (Unit testing), and Git.
+Certifications (if any): None required, but AWS Certified Developer or Oracle Certified Professional (Java) are frequently listed as "preferred."
+What the job does (1–2 sentences): This role designs and develops robust backend services for USAA’s Property & Casualty insurance systems, focusing on migrating legacy applications to cloud-native microservices.
+
+Cloud / Site Reliability Engineer (Rackspace):
+Job #2
+Company: Rackspace Technology
+Job Title: Cloud Engineer (Azure Specialist)
+Education Required: Bachelor’s degree in Computer Science, Information Technology, or a related field.
+Experience Required: 3–5 years of experience in cloud engineering or systems administration, with a specific focus on implementing and managing Azure-based solutions.
+Skills / Tools / Languages: Azure Resource Manager (ARM), Azure Virtual Machines, and Azure Networking (VNETs, Load Balancers). Terraform, PowerShell, and Azure DevOps pipelines. JSON/YAML for templating and Python for scripting.
+Certifications (if any): Microsoft Certified: Azure Solutions Architect Expert or Azure Administrator Associate
+What the job does (1–2 sentences): This role involves designing and deploying automated cloud environments for enterprise clients, ensuring that infrastructure is secure, scalable, and follows best practices. You will act as a technical consultant to help customers migrate their on-premises workloads into the Microsoft Azure ecosystem.
