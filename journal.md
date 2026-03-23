@@ -475,3 +475,11 @@ Experience Required: 3–5 years of experience in cloud engineering or systems a
 Skills / Tools / Languages: Azure Resource Manager (ARM), Azure Virtual Machines, and Azure Networking (VNETs, Load Balancers). Terraform, PowerShell, and Azure DevOps pipelines. JSON/YAML for templating and Python for scripting.
 Certifications (if any): Microsoft Certified: Azure Solutions Architect Expert or Azure Administrator Associate
 What the job does (1–2 sentences): This role involves designing and deploying automated cloud environments for enterprise clients, ensuring that infrastructure is secure, scalable, and follows best practices. You will act as a technical consultant to help customers migrate their on-premises workloads into the Microsoft Azure ecosystem.
+
+ # March 23, 2026
+Journal Prompt: 
+I don't watch basketball, so I made educated guesses on choosing my bracket. I was suprised about how close the scores were. Using this data, it can help me analyze the performance of each team and choose which is better to pick. A computer program can help provide information onto the statistics of each team. Some examples of jobs involving sports data are Data Science and Analytics, and Engineering and Software. Development
+ 
+
+
+
