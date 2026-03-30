@@ -454,7 +454,7 @@ I don't really watch American Football much. I also didn't watch the Super Bowl.
 Journal Prompt: 
 A technology i'd say had the biggest impact is the broadcasting technology, revolutionizing how audiences watch the sports. This tech offers FPV drones for immersive angles, 4K HDR, and Chyron graphics for real-time data, reducing on-site footprints while increasing production value. This technology make the games more engaging and accessible to a global, digital audience. 
 
- # March 2, 2026
+# March 2, 2026
 Journal Prompt: 
 Software Engineer (USAA):
 Job #1
@@ -476,10 +476,15 @@ Skills / Tools / Languages: Azure Resource Manager (ARM), Azure Virtual Machines
 Certifications (if any): Microsoft Certified: Azure Solutions Architect Expert or Azure Administrator Associate
 What the job does (1–2 sentences): This role involves designing and deploying automated cloud environments for enterprise clients, ensuring that infrastructure is secure, scalable, and follows best practices. You will act as a technical consultant to help customers migrate their on-premises workloads into the Microsoft Azure ecosystem.
 
- # March 23, 2026
+# March 23, 2026
 Journal Prompt: 
 I don't watch basketball, so I made educated guesses on choosing my bracket. I was suprised about how close the scores were. Using this data, it can help me analyze the performance of each team and choose which is better to pick. A computer program can help provide information onto the statistics of each team. Some examples of jobs involving sports data are Data Science and Analytics, and Engineering and Software. Development
  
+# March 30, 2026
+Journal Prompt: 
+After researching, the win to Iowa against Florida was suprising. Florida apperently came into the tournament as the defending national champion prior. I think computers will have a hard time predicting things such as injuries, as you will never know when someone is going to injure themselves in a match. If I were to build a program to predict games, I think I would have a hard time predicting tactic for teams. I think the coach can choose any tactic or make up a new one on the go so predicting it would be hard.   
+
+
 
 
 
