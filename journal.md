@@ -484,7 +484,10 @@ I don't watch basketball, so I made educated guesses on choosing my bracket. I w
 Journal Prompt: 
 After researching, the win to Iowa against Florida was suprising. Florida apperently came into the tournament as the defending national champion prior. I think computers will have a hard time predicting things such as injuries, as you will never know when someone is going to injure themselves in a match. If I were to build a program to predict games, I think I would have a hard time predicting tactic for teams. I think the coach can choose any tactic or make up a new one on the go so predicting it would be hard.   
 
-
+# April 9, 2026
+Journal Prompt: 
+I would argue that humans being reckless is a part of human nature. If we can survive and live on the previous earth, surely we can survive on the "new planet". I would try to gather a whole bunch of people to speak together in an agreement to let the humans out. Maybe start doing a chant saying "let us out" over and over until the AI gets convinced. I would overall try to get the message out that humans are capable of surviving even though we are so called reckless.
+My plan step by step will look something like this. First, get as much people to chant "let us out". Second get a main person who can speak for all humans. Three do not give up until AI gets convinced. At the end, this plan that I made up probably won't be convincing enough, but I feel it's good to atleast try with my plan. 
 
 
 
