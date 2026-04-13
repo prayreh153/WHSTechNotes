@@ -489,5 +489,6 @@ Journal Prompt:
 I would argue that humans being reckless is a part of human nature. If we can survive and live on the previous earth, surely we can survive on the "new planet". I would try to gather a whole bunch of people to speak together in an agreement to let the humans out. Maybe start doing a chant saying "let us out" over and over until the AI gets convinced. I would overall try to get the message out that humans are capable of surviving even though we are so called reckless.
 My plan step by step will look something like this. First, get as much people to chant "let us out". Second get a main person who can speak for all humans. Three do not give up until AI gets convinced. At the end, this plan that I made up probably won't be convincing enough, but I feel it's good to atleast try with my plan. 
 
-
-
+# April 13, 2026
+Journal Prompt: 
+While NASA and the engineers who are able to set new records in space with reliable technology, i don't think it's reliable enough for long stays at on the moon or mars. Attempting stays at another planet other than earth can be very challenging and dangerous. 1 technology used in Artemis 2 is the Orion Crew Module Technology, which is the material they use for the actual capule to ensure safety. Another technology is the European Service Module, which is the powerhouse for the capsule. It uses 33 engines to be able to provide all necessary power, propulsion, and thermal control. These technology are what makes the space travel possible and any major mistake can be vital especially in going to space.
