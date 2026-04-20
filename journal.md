@@ -492,3 +492,7 @@ My plan step by step will look something like this. First, get as much people to
 # April 13, 2026
 Journal Prompt: 
 While NASA and the engineers who are able to set new records in space with reliable technology, i don't think it's reliable enough for long stays at on the moon or mars. Attempting stays at another planet other than earth can be very challenging and dangerous. 1 technology used in Artemis 2 is the Orion Crew Module Technology, which is the material they use for the actual capule to ensure safety. Another technology is the European Service Module, which is the powerhouse for the capsule. It uses 33 engines to be able to provide all necessary power, propulsion, and thermal control. These technology are what makes the space travel possible and any major mistake can be vital especially in going to space.
+
+# April 20, 2026
+Journal Prompt: 
+I think AI brings people to question if somethings are real or fake. With AI being more advanced everyday, it comes to point where sometimes we can't tell if something is real or not. This can be viewed in a good or bad way. In a bad way, AI can get so real, it replaces artists or content creators, leaving them with no source of job to make income. In a good way, AI can be a helpfull tool that offers help to content creating. Either way, AI nowadays is sometimes questionable but if you learn to use it in the right way, I think it can be used for good. 
