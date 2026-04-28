@@ -496,3 +496,7 @@ While NASA and the engineers who are able to set new records in space with relia
 # April 20, 2026
 Journal Prompt: 
 I think AI brings people to question if somethings are real or fake. With AI being more advanced everyday, it comes to point where sometimes we can't tell if something is real or not. This can be viewed in a good or bad way. In a bad way, AI can get so real, it replaces artists or content creators, leaving them with no source of job to make income. In a good way, AI can be a helpfull tool that offers help to content creating. Either way, AI nowadays is sometimes questionable but if you learn to use it in the right way, I think it can be used for good. 
+
+# April 27, 2026
+Journal Prompt: 
+Whether you notice it or not, technology is used and is in almost everything we see. Recently I watched the Sidemen Charity Match, which was a soccer game in a sold out stadium with a whole bunch of different content creators, all in to raise mmoney to donate to those in need. In this match I realized how much technology is needed to make this work. For example, they needed cameras to record the match live, then broadcast it to people all over the world. Another exxample is the technology as social media to promote the charity match to get people to buy tickets. As you can see, technologyu plays a major role in making this match take place and work accordingly.     
