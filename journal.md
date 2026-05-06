@@ -478,7 +478,7 @@ What the job does (1–2 sentences): This role involves designing and deploying 
 
 # March 23, 2026
 Journal Prompt: 
-I don't watch basketball, so I made educated guesses on choosing my bracket. I was suprised about how close the scores were. Using this data, it can help me analyze the performance of each team and choose which is better to pick. A computer program can help provide information onto the statistics of each team. Some examples of jobs involving sports data are Data Science and Analytics, and Engineering and Software. Development
+I don't watch basketball, so I made educated guesses on choosing my bracket. I was suprised about how close the scores were. Using this data, it can help me analyze the performance of each team and choose which is better to pick. A computer program can help provide information onto the statistics of each team. Some examples of jobs involving sports data are Data Science and Analytics, and Engineering and Software. Development. I used AI to assist with this entry.
  
 # March 30, 2026
 Journal Prompt: 
@@ -491,13 +491,18 @@ My plan step by step will look something like this. First, get as much people to
 
 # April 13, 2026
 Journal Prompt: 
-While NASA and the engineers who are able to set new records in space with reliable technology, i don't think it's reliable enough for long stays at on the moon or mars. Attempting stays at another planet other than earth can be very challenging and dangerous. 1 technology used in Artemis 2 is the Orion Crew Module Technology, which is the material they use for the actual capule to ensure safety. Another technology is the European Service Module, which is the powerhouse for the capsule. It uses 33 engines to be able to provide all necessary power, propulsion, and thermal control. These technology are what makes the space travel possible and any major mistake can be vital especially in going to space.
+While NASA and the engineers who are able to set new records in space with reliable technology, i don't think it's reliable enough for long stays at on the moon or mars. Attempting stays at another planet other than earth can be very challenging and dangerous. 1 technology used in Artemis 2 is the Orion Crew Module Technology, which is the material they use for the actual capule to ensure safety. Another technology is the European Service Module, which is the powerhouse for the capsule. It uses 33 engines to be able to provide all necessary power, propulsion, and thermal control. These technology are what makes the space travel possible and any major mistake can be vital especially in going to space. I used AI to assist with this entry.
 
 # April 20, 2026
 Journal Prompt: 
-I think AI brings people to question if somethings are real or fake. With AI being more advanced everyday, it comes to point where sometimes we can't tell if something is real or not. This can be viewed in a good or bad way. In a bad way, AI can get so real, it replaces artists or content creators, leaving them with no source of job to make income. In a good way, AI can be a helpfull tool that offers help to content creating. Either way, AI nowadays is sometimes questionable but if you learn to use it in the right way, I think it can be used for good. 
+I think AI brings people to question if somethings are real or fake. With AI being more advanced everyday, it comes to point where sometimes we can't tell if something is real or not. This can be viewed in a good or bad way. In a bad way, AI can get so real, it replaces artists or content creators, leaving them with no source of job to make income. In a good way, AI can be a helpfull tool that offers help to content creating. Either way, AI nowadays is sometimes questionable but if you learn to use it in the right way, I think it can be used for good. I used AI to assist with this entry.
 
 # April 27, 2026
 Journal Prompt: 
 Whether you notice it or not, technology is used in almost everything we see. Recently, I watched the Sidemen Charity Match, which was a soccer game in a sold-out stadium with a whole bunch of different content creators, all there to raise money to donate to those in need. During this match, I realized how much technology is needed to make this work. For example, they needed cameras to record the match live and then broadcast it to people all over the world. Another example is the technology used for social media to promote the charity match and get people to buy tickets. As you can see, technology plays a major role in making this match take place and work correctly.
  
+# May 6, 2026
+Journal Prompt: 
+I personally do think I help train AI through apps I use everyday. With AI becoming more advanced and used more everywhere, I feel it's bound to happen that I help AI with my responses. A lot of apps on my phone uses AI. For example, Instagram has this thing called Meta AI, so I am pretty sure my responses to what I watch or like on the platform helps AI. Knowing this, I feel AI might be too much in the future, seeing how fast it gets better and bigger.  
+
+
