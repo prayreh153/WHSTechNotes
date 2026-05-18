@@ -505,4 +505,10 @@ Whether you notice it or not, technology is used in almost everything we see. Re
 Journal Prompt: 
 I personally do think I help train AI through apps I use everyday. With AI becoming more advanced and used more everywhere, I feel it's bound to happen that I help AI with my responses. A lot of apps on my phone uses AI. For example, Instagram has this thing called Meta AI, so I am pretty sure my responses to what I watch or like on the platform helps AI. Knowing this, I feel AI might be too much in the future, seeing how fast it gets better and bigger.  
 
+# May 11, 2026
+Journal Prompt: 
+Throughout the school year, a lot of things changed. With these changes, I feel I developed a lot more responsibility. In life, as you grow you have more and more responsibilities to take care of. I learned to be accountable for my actions and discipline myself. For example, when my parents allowed me to start driving to school, I had to be responsible for being on time and present. I can't blame anyone else for being late or absent but me. Me now compared to beginning of the year, I feel like I am more understanding that things will not go your way sometimes.
 
+# May 18, 2026
+Journal Prompt: 
+If I had to describe Sebastian to the cops, I would say they are the kind of person who would try to blend on woth the croud to hid in plain sight, but gets caught immediately. They usually wear jorts and either a soccer jersey or long sleeve. They're kinda quiet but once you get to know them, he will open up. I would think they'll ben found in a ditch trying to sleep. One funny memory that would make him recognizable is that he tries to look sneaky too much.
